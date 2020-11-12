@@ -45,6 +45,7 @@ body{
 .content{
     width: 100%;
     overflow: hidden;
+    background-color: lightgray;
 }
 
 .box{
