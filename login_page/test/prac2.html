@@ -1,0 +1,79 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta http-equiv="Content-Type" content="text/html;charset=utf8"/>
+    <title>overflow demo</title>
+    <style type="text/css">
+        h2, h3 {
+            margin: 0;
+            padding: 0.8em 0;
+        }
+
+        p {
+            margin: 0;
+            pading: 5px 10px;
+        }
+
+        body {
+            background: #000;
+            color: #fff;
+        }
+
+        .position {
+            margin: 100px auto;
+            width: 300px;
+            background: #000;
+            border: 1px solid #fff;
+            position: relative;
+            #zoom: 1;
+        }
+
+        .overflow {
+            width: 100%;
+            background: #f00;
+            overflow: hidden;
+            #zoom: 1;
+        }
+        /* 注意static元素也是超出范围的,但没有设置absolute所以不显示 */
+        .static {
+            height: 150px;
+            width: 450px;
+            background: #00f;
+        }
+
+        .absolute {
+            position: absolute;
+            width: 350px;
+            height: 80px;
+            top: 150px;
+            left: -100px;
+            background: #0c0;
+        }
+    </style>
+</head>
+
+<body>
+
+<div class="position">
+    <h2>position box</h2>
+
+    <div class="overflow">
+        <h3>overflow box</h3>
+        <div class="static">
+            <p>This is static child element. This is static child element. This is static child element. This is static
+                child element.
+            <p>
+            <p>This is static child element. This is static child element. This is static child element. This is static
+                child element.
+            <p>
+        </div>
+        <div class="absolute">This is absolute child element. This is absolute child element. This is absolute child
+            element. This is absolute child element.
+        </div>
+    </div>
+
+</div>
+
+</body>
+</html>

@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Seasons</title>
+    <style type="text/css">
+        *{
+            margin: 0;
+            padding: 0;
+        }
+
+        page{
+            position: absolute;
+            /*width: 200px;*/
+            height: 100%;
+            width: 100%;
+            font-size: 50px;
+            opacity: 0;
+            text-align: center;
+            line-height: 400px
+        }
+        #Sp{
+            background: #b15ca4;
+            animation: change 8s ease 0s infinite;
+        }
+        #Su{
+            background: #b12827;
+            animation: change 8s ease 2s infinite;
+        }
+        #Au{
+            background: #726e28;
+            animation: change 8s ease 4s infinite;
+        }
+        #Win{
+            background: aliceblue;
+            animation: change 8s ease 6s infinite;
+        }
+
+        @keyframes change {
+            0%{
+                opacity: 0;
+            }
+            20%{
+                opacity: 1;
+            }
+            30%{
+                opacity: 0;
+            }
+            100%{
+                opacity: 0;
+            }
+        }
+
+
+    </style>
+    <script>
+        // function play(x){
+        //     alert(x+'nmsl');
+        // }
+    </script>
+
+</head>
+<body onload="play('shan:')">
+    <page id="Sp">Spring</page>
+    <page id="Su">Summer</page>
+    <page id="Au">Autumn</page>
+    <page id="Win">Winter</page>
+
+</body>
+</html>

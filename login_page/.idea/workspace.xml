@@ -1,0 +1,305 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9fd511a1-34bc-4da9-a158-2e545726e1a4" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1joKV6Pq8pDmsWqOpUVkC9xR27b" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../CSU_website/slider" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Codes\Web\webstormProjects\myh5\Basics\img" />
+      <recent name="D:\Code\Web\WebStormProjects\myh5\Basics\wav" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Codes\Web\webstormProjects\myh5\test" />
+      <recent name="D:\Code\Web\WebStormProjects\myh5\Basics\img" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9fd511a1-34bc-4da9-a158-2e545726e1a4" name="Default Changelist" comment="" />
+      <created>1604465024933</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604465024933</updated>
+      <workItem from="1604465026185" duration="2905000" />
+      <workItem from="1604477665055" duration="11335000" />
+      <workItem from="1604683202198" duration="37000" />
+      <workItem from="1604683248494" duration="13000" />
+      <workItem from="1604819012545" duration="8000" />
+      <workItem from="1604833234115" duration="11374000" />
+      <workItem from="1604898197465" duration="8000" />
+      <workItem from="1604898222323" duration="17351000" />
+      <workItem from="1605154080999" duration="937000" />
+    </task>
+    <task id="LOCAL-00001" summary="nmsl">
+      <created>1604465078895</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1604465078895</updated>
+    </task>
+    <task id="LOCAL-00002" summary="nmsl">
+      <created>1604465224543</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1604465224543</updated>
+    </task>
+    <task id="LOCAL-00003" summary="nmsl">
+      <created>1604465791611</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1604465791611</updated>
+    </task>
+    <task id="LOCAL-00004" summary="nmsl">
+      <created>1604465893849</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1604465893849</updated>
+    </task>
+    <task id="LOCAL-00005" summary="nmsl">
+      <created>1604466872771</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1604466872771</updated>
+    </task>
+    <task id="LOCAL-00006" summary="nmsl">
+      <created>1604466904675</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1604466904675</updated>
+    </task>
+    <task id="LOCAL-00007" summary="nmsl">
+      <created>1604466974398</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1604466974398</updated>
+    </task>
+    <task id="LOCAL-00008" summary="upload music">
+      <created>1604477757348</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1604477757348</updated>
+    </task>
+    <task id="LOCAL-00009" summary="upload music">
+      <created>1604477852647</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1604477852647</updated>
+    </task>
+    <task id="LOCAL-00010" summary="modify">
+      <created>1604478150347</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1604478150347</updated>
+    </task>
+    <task id="LOCAL-00011" summary="modify">
+      <created>1604479009092</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1604479009092</updated>
+    </task>
+    <task id="LOCAL-00012" summary="modify">
+      <created>1604479305292</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1604479305292</updated>
+    </task>
+    <task id="LOCAL-00013" summary="modify">
+      <created>1604487185912</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1604487185912</updated>
+    </task>
+    <task id="LOCAL-00014" summary="modify">
+      <created>1604487993362</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1604487993362</updated>
+    </task>
+    <task id="LOCAL-00015" summary="modify">
+      <created>1604488936234</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1604488936234</updated>
+    </task>
+    <task id="LOCAL-00016" summary="modify">
+      <created>1604489558949</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1604489558949</updated>
+    </task>
+    <task id="LOCAL-00017" summary="modify">
+      <created>1604489595402</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1604489595402</updated>
+    </task>
+    <task id="LOCAL-00018" summary="modify">
+      <created>1604539311974</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1604539311974</updated>
+    </task>
+    <task id="LOCAL-00019" summary="modify">
+      <created>1604539327627</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1604539327627</updated>
+    </task>
+    <task id="LOCAL-00020" summary="modify">
+      <created>1605056900504</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1605056900504</updated>
+    </task>
+    <task id="LOCAL-00021" summary="login design">
+      <created>1605154181847</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1605154181847</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="nmsl" />
+    <MESSAGE value="upload music" />
+    <MESSAGE value="modify" />
+    <MESSAGE value="login design" />
+    <option name="LAST_COMMIT_MESSAGE" value="login design" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="560" y="317" key="#Notifications" timestamp="1605154202010">
+      <screen x="0" y="0" width="1646" height="989" />
+    </state>
+    <state x="560" y="317" key="#Notifications/0.0.1646.989@0.0.1646.989" timestamp="1605154202010" />
+    <state x="571" y="259" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1605055139590">
+      <screen x="0" y="0" width="1646" height="989" />
+    </state>
+    <state x="533" y="216" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1604487590210" />
+    <state x="571" y="259" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1646.989@0.0.1646.989" timestamp="1605055139590" />
+    <state x="566" y="331" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog" timestamp="1604848135846">
+      <screen x="0" y="0" width="1646" height="989" />
+    </state>
+    <state x="566" y="331" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog/0.0.1646.989@0.0.1646.989" timestamp="1604848135846" />
+    <state x="422" y="61" key="CommitChangelistDialog2" timestamp="1605154181202">
+      <screen x="0" y="0" width="1646" height="989" />
+    </state>
+    <state x="422" y="61" key="CommitChangelistDialog2/0.0.1646.989@0.0.1646.989" timestamp="1605154181202" />
+    <state x="147" y="65" key="DiffContextDialog" timestamp="1604466987046">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="147" y="65" key="DiffContextDialog/0.0.1536.824@0.0.1536.824" timestamp="1604466987046" />
+    <state x="600" y="236" key="FileChooserDialogImpl" timestamp="1604942853786">
+      <screen x="0" y="0" width="1646" height="989" />
+    </state>
+    <state x="600" y="236" key="FileChooserDialogImpl/0.0.1646.989@0.0.1646.989" timestamp="1604942853786" />
+    <state x="297" y="70" key="SettingsEditor" timestamp="1604848960785">
+      <screen x="0" y="0" width="1646" height="989" />
+    </state>
+    <state x="277" y="58" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1604500471849" />
+    <state x="297" y="70" key="SettingsEditor/0.0.1646.989@0.0.1646.989" timestamp="1604848960785" />
+    <state x="387" y="174" key="Vcs.Push.Dialog.v2" timestamp="1605154183748">
+      <screen x="0" y="0" width="1646" height="989" />
+    </state>
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1604539332970" />
+    <state x="387" y="174" key="Vcs.Push.Dialog.v2/0.0.1646.989@0.0.1646.989" timestamp="1605154183748" />
+    <state x="589" y="327" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1604465210828">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="589" y="327" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824@0.0.1536.824" timestamp="1604465210828" />
+    <state x="485" y="226" width="672" height="678" key="search.everywhere.popup" timestamp="1604987441675">
+      <screen x="0" y="0" width="1646" height="989" />
+    </state>
+    <state x="485" y="226" width="672" height="678" key="search.everywhere.popup/0.0.1646.989@0.0.1646.989" timestamp="1604987441675" />
+  </component>
+</project>

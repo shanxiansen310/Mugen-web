@@ -1,0 +1,56 @@
+<img id="img" width="280" src="../Basics/img/samurai.jpg">
+<button id="fadeIn">fadeIn</button>
+<button id="fadeOut">fadeOut</button>
+
+<script>
+    window.onload=function(){
+        let bFadeIn=document.getElementById("fadeIn");
+        let bFadeOut=document.getElementById("fadeOut");
+        let oImg=document.getElementById("img");
+
+        bFadeIn.onclick=function(){
+            changeOpacity(oImg,0.05,1);
+        };
+        bFadeOut.onclick=function(){
+            changeOpacity(oImg,-0.05,0);
+            // oImg.setAttribute("src","img/3.png");
+        };
+
+        oImg.onmouseenter=function (){
+            // changeOpacity(oImg,-0.05,0);
+            oImg.style.cssText="transform:scale(1.2) ; transition:0.3s;";
+            // oImg.setAttribute("src","img/3.png");
+        }
+
+
+        //透明度的封装
+        /*obj是要修改的对象,step控制变化的快慢(+淡入,-淡出),target为最终的opacity */
+        function changeOpacity(obj,step,target){
+            clearInterval( obj.timer );
+            obj.timer = setInterval(function () {
+                let curOpacity =parseFloat(getStyle( obj, "opacity" )) + step;
+                if (step<0) {  //step小于0时为慢慢使其消失
+                    if (curOpacity < target) {
+                        clearInterval(obj.timer);
+                    } else {
+                        obj.style.opacity = curOpacity.toString();
+                    }
+                }
+                else {         //step大于0时为慢慢使其出现
+                    if (curOpacity > target) {
+                        clearInterval(obj.timer);
+                    } else {
+                        obj.style.opacity = curOpacity.toString();
+                    }
+                }
+            }, 80);
+
+        }
+    };
+
+    //兼容不同浏览器获取行间样式
+    function getStyle ( obj, attr ) {
+        return obj.currentStyle?obj.currentStyle[attr] : getComputedStyle( obj )[attr];
+    }
+
+</script>
