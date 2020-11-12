@@ -1,6 +1,8 @@
 /*轮播图实现*/
 
 window.onload=function (){
+    /*轮播图实现*/
+
     /*变量声明和定义*/
     let curIndex=0;
     let container=document.getElementsByClassName("slides")[0];
@@ -34,7 +36,7 @@ window.onload=function (){
     function slidePlay(){
         autoplayTimer=setInterval(function (){
             change(++curIndex);
-            console.log("cur:"+curIndex);
+            // console.log("cur:"+curIndex);
         },5000)    //这个延迟是每张图片停留的时间（包括动画）
     }
 
@@ -60,5 +62,20 @@ window.onload=function (){
                 slideBox.style.cssText = "transform: translateX(" + 0 + ");";
             },1000);
         }
+    }
+
+
+    /*忘记密码*/
+    let forgot=document.getElementById("forgot-tag");
+    let validation=document.getElementsByClassName("validation")[0];
+    forgot.onclick=function (){
+        validation.style.opacity="1";
+        validation.style.zIndex="1";
+    }
+
+    let falseBox=document.getElementsByClassName("false-box")[0];
+    falseBox.onclick=function (){
+        validation.style.opacity="0"
+        validation.style.zIndex="-1";
     }
 }

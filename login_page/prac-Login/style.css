@@ -64,7 +64,7 @@ body{
     height: 100%;
     /*margin-left: 40px;*/
     /*margin-top: 40px;*/
-    background-color: azure;
+    background-color: lightgray;
     overflow: hidden;
     font-size: 0;    //消除img间隔
 }
@@ -97,6 +97,7 @@ body{
 }
 
 .login{
+    position: relative;
     float: left;
     width: 50%;
     height: 100%;
@@ -171,7 +172,7 @@ body{
     margin-bottom: 30px;
 }
 .sign-in-button{
-    background-color: darkgray;
+    background-color: grey;
     border: none;
     color: white;
     padding: 8px 25px;
@@ -185,7 +186,8 @@ body{
     transition: .4s;
 }
 .sign-in-button:hover{
-    background-color: #4a4b4a;
+    background-color: #231f24;
+    transform: scale(1.05);
 }
 
 .forgot-bar{
@@ -198,7 +200,9 @@ body{
 }
 .forgot-bar a:hover{
     color: #999999;
+    cursor: pointer;
 }
+
 .forgot-left{
     display: inline-block;
     margin-right: 10px;
@@ -217,4 +221,102 @@ body{
 .sign-up a:hover{
     color: #999999;
 }
+
+.validation{
+    position: absolute;
+    width: 60%;
+    min-width:250px ;      /*防止collapse*/
+    height: 55%;
+    bottom: 40%;
+    border-radius: 20px;
+    transform: translateX(34%);
+    background-color: white;
+    transition: .5s;
+    opacity: 0;
+    overflow: hidden;
+    z-index: -2;
+}
+
+.validation span{
+    display: inline-block;
+    margin-bottom: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+    color: #5f5f5f;
+    line-height: 35px;
+    text-transform: uppercase
+}
+
+.false-box{
+    float: right;
+    position: relative;
+    width: 40px;
+    height: 40px;
+    top: -5px;
+    text-align: center;
+    transform: scale(0.5);
+}
+.false-box:hover{
+    cursor: pointer;
+    transform: scale(0.65);
+    transition: .5s;
+}
+.false-box:hover .left,.false-box:hover .right{
+    background-color: black;
+}
+.left{
+    position: absolute;
+    width: 6px;
+    height: 50px;
+    left: 45%;
+    bottom: -6px;
+    transform: rotate(45deg) ;
+    border-radius: 3px;
+    background: grey;
+}
+.right{
+    position: absolute;
+    width: 6px;
+    height: 50px;
+    bottom: -6px;
+    transform:  translateX(16px) rotate(-45deg) ;
+    border-radius: 3px;
+    background: grey;
+}
+
+.validation .input-outline-x{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.validation .input-outline{
+    border-color: darkgray;
+}
+.validation .input-outline:focus{
+    border-color: black;
+}
+
+.send-code{
+    background-color: grey;
+    border: none;
+    color: white;
+    padding: 8px 25px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 15px;
+    margin-bottom: 15px;
+    cursor: pointer;
+    border-radius: 10px;
+    transition: .4s;
+    outline: none;
+}
+.send-code:hover{
+    background-color: #2c2a2c;
+    transform: scale(1.1);
+}
+
+
+
+
+
 
