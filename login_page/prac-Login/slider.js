@@ -52,16 +52,19 @@ window.onload=function (){
             dotItems[targetIndex].classList.add("active");
         }
 
+
         let movePercent=-(targetIndex*20)+"%";
         slideBox.style.cssText="transform: translateX(" + movePercent + "); transition:1s;";
         curIndex=targetIndex;
 
-        if (curIndex==dotItems.length){
+
+        if (curIndex==dotItems.length){   /*意思是第四张(第四张和第一张图片一样)*/
             setTimeout(function (){
                 curIndex=0;
-                slideBox.style.cssText = "transform: translateX(" + 0 + ");";
-            },1000);
-        }
+                slideBox.style.cssText = "transform: translateX(" + 0 + ");";  /*这里会覆盖上面的css属性,没有了transition就会是突变*/
+            },1000);    /*这里是第四张图片,这个函数就是使1s后第四张图片突然变成第一张图片*/
+        }                       /*由于一模一样的,所以不会察觉到变化*/
+
     }
 
 

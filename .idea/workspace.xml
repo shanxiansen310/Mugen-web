@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2e4bd350-87b6-43d0-af4f-3dc059f4cf6d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/login_page/prac-Login/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/login_page/prac-Login/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/login_page/prac-Login/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/login_page/prac-Login/website.html" beforeDir="false" afterPath="$PROJECT_DIR$/login_page/prac-Login/website.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1kAxnf14X86NF5MVKZiuQS7pKOh" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.HTML" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Codes\Web\webstormProjects\Cynosure_web\login_page\prac-Login" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2e4bd350-87b6-43d0-af4f-3dc059f4cf6d" name="Default Changelist" comment="" />
+      <created>1605157365983</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605157365983</updated>
+      <workItem from="1605157367041" duration="19920000" />
+      <workItem from="1605192191047" duration="480000" />
+      <workItem from="1605522073708" duration="280000" />
+      <workItem from="1605525852725" duration="1066000" />
+      <workItem from="1606281883248" duration="2188000" />
+    </task>
+    <task id="LOCAL-00001" summary="initial add">
+      <created>1605157475575</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1605157475575</updated>
+    </task>
+    <task id="LOCAL-00002" summary="change bd-color">
+      <created>1605158243825</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1605158243825</updated>
+    </task>
+    <task id="LOCAL-00003" summary="add verification">
+      <created>1605186168528</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1605186168528</updated>
+    </task>
+    <task id="LOCAL-00004" summary="add title icon">
+      <created>1605192435283</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1605192435283</updated>
+    </task>
+    <task id="LOCAL-00005" summary="README.md">
+      <created>1605526319640</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1605526319640</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="initial add" />
+    <MESSAGE value="change bd-color" />
+    <MESSAGE value="add verification" />
+    <MESSAGE value="add title icon" />
+    <MESSAGE value="README.md" />
+    <option name="LAST_COMMIT_MESSAGE" value="README.md" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="406" y="61" key="CommitChangelistDialog2" timestamp="1605526318998">
+      <screen x="0" y="0" width="1646" height="989" />
+    </state>
+    <state x="406" y="61" key="CommitChangelistDialog2/0.0.1646.989@0.0.1646.989" timestamp="1605526318998" />
+    <state x="93" y="93" width="1459" height="802" key="DiffContextDialog" timestamp="1605172236937">
+      <screen x="0" y="0" width="1646" height="989" />
+    </state>
+    <state x="93" y="93" width="1459" height="802" key="DiffContextDialog/0.0.1646.989@0.0.1646.989" timestamp="1605172236937" />
+    <state x="104" y="185" key="SettingsEditor" timestamp="1605172265111">
+      <screen x="0" y="0" width="1646" height="989" />
+    </state>
+    <state x="104" y="185" key="SettingsEditor/0.0.1646.989@0.0.1646.989" timestamp="1605172265111" />
+    <state width="498" height="446" key="SwitcherDM" timestamp="1605170255672">
+      <screen x="0" y="0" width="1646" height="989" />
+    </state>
+    <state width="498" height="446" key="SwitcherDM/0.0.1646.989@0.0.1646.989" timestamp="1605170255672" />
+    <state x="415" y="227" key="Vcs.Push.Dialog.v2" timestamp="1605526323076">
+      <screen x="0" y="0" width="1646" height="989" />
+    </state>
+    <state x="415" y="227" key="Vcs.Push.Dialog.v2/0.0.1646.989@0.0.1646.989" timestamp="1605526323076" />
+    <state x="629" y="407" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1605525858081">
+      <screen x="0" y="0" width="1646" height="989" />
+    </state>
+    <state x="629" y="407" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1646.989@0.0.1646.989" timestamp="1605525858081" />
+    <state x="904" y="217" key="search.everywhere.popup" timestamp="1605169992696">
+      <screen x="0" y="0" width="1646" height="989" />
+    </state>
+    <state x="904" y="217" key="search.everywhere.popup/0.0.1646.989@0.0.1646.989" timestamp="1605169992696" />
+  </component>
+</project>
