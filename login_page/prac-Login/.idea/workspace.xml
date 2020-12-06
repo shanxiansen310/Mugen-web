@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="50808ccf-e4fd-4f70-a223-21a1a279d0da" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../../.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/slide3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/slide3.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/slider.js" beforeDir="false" afterPath="$PROJECT_DIR$/slider.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/website.html" beforeDir="false" afterPath="$PROJECT_DIR$/website.html" afterDir="false" />
-    </list>
+    <list default="true" id="50808ccf-e4fd-4f70-a223-21a1a279d0da" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -61,17 +53,37 @@
       <workItem from="1606292480730" duration="3063000" />
       <workItem from="1606442784352" duration="3000" />
       <workItem from="1606442822886" duration="20000" />
-      <workItem from="1607167478154" duration="673000" />
+      <workItem from="1607167478154" duration="854000" />
     </task>
+    <task id="LOCAL-00001" summary="explain js">
+      <created>1607168304920</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1607168304920</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="explain js" />
+    <option name="LAST_COMMIT_MESSAGE" value="explain js" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="422" y="61" key="CommitChangelistDialog2" timestamp="1607168304004">
+      <screen x="0" y="0" width="1646" height="989" />
+    </state>
+    <state x="422" y="61" key="CommitChangelistDialog2/0.0.1646.989@0.0.1646.989" timestamp="1607168304004" />
     <state x="650" y="142" key="SettingsEditor" timestamp="1605118412001">
       <screen x="0" y="0" width="1646" height="989" />
     </state>
     <state x="650" y="142" key="SettingsEditor/0.0.1646.989@0.0.1646.989" timestamp="1605118412001" />
+    <state x="415" y="227" key="Vcs.Push.Dialog.v2" timestamp="1607168308535">
+      <screen x="0" y="0" width="1646" height="989" />
+    </state>
+    <state x="415" y="227" key="Vcs.Push.Dialog.v2/0.0.1646.989@0.0.1646.989" timestamp="1607168308535" />
   </component>
 </project>
